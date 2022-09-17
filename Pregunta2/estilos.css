@@ -1,0 +1,51 @@
+header {
+    display: flex;
+    align-items: center;
+    background-color: #12AAFF;
+    height: 20px;
+    padding: 30px 25px;
+  }
+
+.sistema, .cerrar{
+    margin: 0;
+}
+.sistema{
+    margin-right: auto;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+.cerrar{
+    color:white
+    
+}
+
+section {
+    display: -webkit-flex;
+    display: flex;
+  }
+nav{
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background: #12aaff;
+    padding: 300px;
+    margin-right: 80em;
+    
+    
+
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+footer{
+    display: flex;
+    align-items: right;
+    background-color: #636363;
+    height: 20px;
+    padding: 30px 25px;
+ 
+
+}

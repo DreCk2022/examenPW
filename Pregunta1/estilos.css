@@ -1,0 +1,14 @@
+body{
+    background-color: #E8E8E8;
+}
+
+section{
+    
+    margin-top:100px;
+    text-align: center;
+    width: 900px;
+    margin-left:auto;
+    margin-right:auto;
+    height:620px;
+    background-color: white;
+}
